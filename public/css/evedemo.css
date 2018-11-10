@@ -177,9 +177,7 @@
     overflow: hidden;
     margin-top: 10px;
     position: absolute;
-    left: 50%;
-    transform: translateX(-180%) translateY(-50%) scale(2);
-    top: 50%;
+    margin-left: 120px;
 
 }
 .ty_361{
@@ -189,12 +187,13 @@
     background: #333;
 }
 .d2{
-    width: 900px;
+    width: 600px;
     height: 250px;
     overflow: hidden;
     position: absolute;
     left: 50%;
-    top: 50%;
-    transform: translateX(0) translateY(-50%)   ;
-
+}
+#d0{
+    position: relative;
+    padding-top: 180px;
 }

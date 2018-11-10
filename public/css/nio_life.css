@@ -464,10 +464,6 @@ p{
     font-weight: bold;
     transition: all 0.5s;
 }
-.item-id-13 .news-teaser_title:hover a{
-    font-size: 28px;
-    color:#00bebe;
-}
 .item-id-13 .news-teaser_date{
     color: #9b9b9b;
     letter-spacing: 2px;

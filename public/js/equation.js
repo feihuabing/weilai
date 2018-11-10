@@ -238,7 +238,7 @@ $(".figure").click(function(){
     $(this).find(".figure_img").css("transform","translate(0%, 25%) matrix(1, 0, 0, 1, 0, 0)" );
     //调整文字位置
     $(this).siblings().find(".scrollbox-content").css("transform","translate(0%, 0%) matrix(1, 0, 0, 1, 0, 0)");
-    $(this).find(".scrollbox-content").css("transform","translate(0%, -31%) matrix(1, 0, 0, 1, 0, 0)");
+    $(this).find(".scrollbox-content").css("transform","translate(0%, -28%) matrix(1, 0, 0, 1, 0, 0)");
     //调整标题位置
     $(this).siblings().find(".figure_word").css("transform","matrix(1, 0, 0, 1, 0, 134.13)");
     $(this).find(".figure_word").css("transform","matrix(1, 0, 0, 1, 0, 134.13)");

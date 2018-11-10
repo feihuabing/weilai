@@ -248,7 +248,7 @@
     justify-content: space-between;
 }
 .w1903{
-    width: 1903px;
+    width: 100%;
 }
 .w48per{
     width: 48%;
@@ -290,7 +290,7 @@
     width: 50%;
 }
 .ml350{
-    margin-left: 350px;
+    margin-left: 0px;
 }
 .fw1000{
     font-weight: bolder;
@@ -365,7 +365,7 @@
     background: #00bebe;
 }
 .bg002e3c{
-    background: #002e3c;
+    background: #fff;
 }
 .l50per{
     left: 50%;
